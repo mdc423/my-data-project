@@ -1,0 +1,7 @@
+# Ignore huge files
+raw_data.csv
+*.xlsx
+
+# Ignore system/cache files
+.DS_store
+__pycache__/
