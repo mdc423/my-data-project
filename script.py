@@ -8,4 +8,4 @@ with open('output_matrix.csv', 'w', newline='') as f:
     writer = csv.writer(f)
     writer.writerows(data)
     
-print("Matrix generated successfully.")
+print("Matrix has been generated successfully.")
